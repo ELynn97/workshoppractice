@@ -1,6 +1,7 @@
 <html>
   <head>
     <title> Test Page </title>
+    <link rel="stylesheet" href="styple.css">
   </head>
   
   <body>
