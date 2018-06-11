@@ -1,0 +1,14 @@
+<html>
+  <head>
+    <title> Test Page </title>
+  </head>
+  
+  <body>
+    <h1> Practicing with HTML and GitHub
+    <p> HTML allows headings listed h1-h6 </p>
+    <p> I just opened a GitHub account today! And now I'm practicing <a href="google.com">anchoring</a> links in my content in HTML </p>
+    <p> Also, pitbulls are the cutest! See evidence below </p>
+  </body>
+  
+  <img src="pitbullbeach.jpg">
+</html>
